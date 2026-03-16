@@ -9,10 +9,12 @@ To implement customer segmentation using K-Means clustering on the Mall Customer
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+
+1. Import required libraries and load the **Mall Customers dataset**.
+2. Select features (Age, Annual Income, Spending Score) and scale the data using **StandardScaler**.
+3. Use the **Elbow Method** to find the optimal number of clusters and apply **K-Means clustering**.
+4. Assign cluster labels to customers and visualize the clusters using a scatter plot.
+
 
 ## Program:
 ```
